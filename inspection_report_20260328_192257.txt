@@ -1,0 +1,205 @@
+====================================
+         日常巡检报告
+====================================
+巡检时间: 2026-03-28 19:22:53
+====================================
+
+[2026-03-28 19:22:53] [INFO] 开始日常巡检
+[2026-03-28 19:22:53] [INFO] === 系统状态检查 ===
+[2026-03-28 19:22:53] [INFO] 系统: Windows 10 10.0.26200
+[2026-03-28 19:22:53] [INFO] 主机名: LAPTOP-R21U0PGC
+[2026-03-28 19:22:53] [INFO] 架构: AMD64
+[2026-03-28 19:22:53] [INFO] 启动时间: 2026-03-28 13:57:46
+[2026-03-28 19:22:53] [INFO] 运行时间: 0天 5小时 25分钟
+[2026-03-28 19:22:53] [INFO] === 磁盘空间检查 ===
+[2026-03-28 19:22:53] [INFO] 分区: C:\ 总空间: 119GB 已用: 111GB 可用: 8GB 使用率: 92.9% 状态: 危险
+[2026-03-28 19:22:53] [INFO] 分区: D:\ 总空间: 176GB 已用: 148GB 可用: 28GB 使用率: 84.1% 状态: 警告
+[2026-03-28 19:22:53] [INFO] 分区: E:\ 总空间: 166GB 已用: 148GB 可用: 18GB 使用率: 89.2% 状态: 警告
+[2026-03-28 19:22:53] [INFO] === 内存使用检查 ===
+[2026-03-28 19:22:53] [INFO] 总内存: 15GB 已用: 11GB 可用: 3GB 使用率: 74.5% 状态: 正常
+[2026-03-28 19:22:53] [INFO] 交换空间: 总大小 11GB 已用 0GB 可用 11GB 使用率: 0.8%
+[2026-03-28 19:22:53] [INFO] === CPU使用检查 ===
+[2026-03-28 19:22:53] [INFO] CPU核心数: 12
+[2026-03-28 19:22:53] [INFO] CPU使用率: 8.5% 状态: 正常
+[2026-03-28 19:22:53] [INFO] === 网络连接检查 ===
+[2026-03-28 19:22:53] [INFO] 网络发送: 406MB 接收: 3396MB
+[2026-03-28 19:22:53] [INFO] 数据包发送: 1571081 接收: 3064490
+[2026-03-28 19:22:53] [INFO] 错误发送: 0 接收: 0
+[2026-03-28 19:22:53] [INFO] 丢包发送: 0 接收: 1310143
+[2026-03-28 19:22:53] [INFO] 接口: WLAN
+[2026-03-28 19:22:53] [INFO]   IPv4: 169.254.184.91 子网掩码: 255.255.0.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::88d8:3967:7ee2:5e47
+[2026-03-28 19:22:53] [INFO] 接口: 本地连接* 3
+[2026-03-28 19:22:53] [INFO]   IPv4: 169.254.184.178 子网掩码: 255.255.0.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::4f34:1214:f11a:316f
+[2026-03-28 19:22:53] [INFO] 接口: 以太网 2
+[2026-03-28 19:22:53] [INFO]   IPv4: 192.168.60.251 子网掩码: 255.255.254.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::b3b7:c68e:afc8:3b73
+[2026-03-28 19:22:53] [INFO] 接口: VMware Network Adapter VMnet1
+[2026-03-28 19:22:53] [INFO]   IPv4: 192.168.11.1 子网掩码: 255.255.255.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::fb01:dcf9:356a:6aaa
+[2026-03-28 19:22:53] [INFO] 接口: VMware Network Adapter VMnet8
+[2026-03-28 19:22:53] [INFO]   IPv4: 192.168.24.1 子网掩码: 255.255.255.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::7dea:a23:762d:28e7
+[2026-03-28 19:22:53] [INFO] 接口: 本地连接* 12
+[2026-03-28 19:22:53] [INFO]   IPv4: 192.168.137.1 子网掩码: 255.255.255.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::2e38:9327:bd36:8e77
+[2026-03-28 19:22:53] [INFO] 接口: 蓝牙网络连接
+[2026-03-28 19:22:53] [INFO]   IPv4: 169.254.38.100 子网掩码: 255.255.0.0
+[2026-03-28 19:22:53] [INFO]   IPv6: fe80::265b:4286:f688:6af4
+[2026-03-28 19:22:53] [INFO] 接口: Loopback Pseudo-Interface 1
+[2026-03-28 19:22:53] [INFO]   IPv4: 127.0.0.1 子网掩码: 255.0.0.0
+[2026-03-28 19:22:53] [INFO]   IPv6: ::1
+[2026-03-28 19:22:53] [INFO] 活跃TCP连接数: 40
+[2026-03-28 19:22:53] [INFO] === 服务状态检查 ===
+[2026-03-28 19:22:53] [INFO] 服务: Application Layer Gateway Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: AMD Crash Defender Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: AMD External Events Utility 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Application Information 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Audio Endpoint Builder 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Audio 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Base Filtering Engine 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Background Tasks Infrastructure Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Computer Browser 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 蓝牙音频网关服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: AVCTP 服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 蓝牙支持服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 功能访问管理器服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 连接设备平台服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Microsoft Office Click-to-Run Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: CoreMessaging 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Cryptographic Services 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: DCOM Server Process Launcher 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Device Association Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: DevQuery Background Discovery Broker 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: DHCP Client 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Connected User Experiences and Telemetry 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 显示策略服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 显示增强服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: DNS Client 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Delivery Optimization 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Diagnostic Policy Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 数据使用量 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Event Log 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: COM+ Event System 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: FLEXnet Licensing Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Fortemedia APO Control Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Font Cache Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Camera Frame Server 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Group Policy Client 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Sentinel LDK License Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: HONOR Update Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows 移动热点服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: IKE and AuthIP IPsec Keying Modules 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Microsoft Store 安装服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 清单和兼容性评估服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: IP Helper 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Phone IP over USB Transport (IpOverUsbSvc) 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: CNG Key Isolation 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Server 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Workstation 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Geolocation Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows 许可证管理器服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: TCP/IP NetBIOS Helper 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Local Session Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: HONOR Windows Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Microsoft Defender Core 服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows MIDI 服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Defender Firewall 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Nahimic service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Network Connection Broker 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Network Connections 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Network List Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Network Store Interface Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: OfficePLUS Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: OSD Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Program Compatibility Assistant Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Phone Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Intel® PROSet/Wireless Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Plug and Play 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: IPsec Policy Agent 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Power 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: User Profile Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: QiAnXin SDK Defender Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: QaxEngManager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Quality Windows Audio Video Experience 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Remote Access Connection Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 无线电管理服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: RPC Endpoint Mapper 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Remote Procedure Call (RPC) 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Security Accounts Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Task Scheduler 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Secondary Logon 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows 安全中心服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: SenaryAudioApp.Svc 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: System Event Notification Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Session Detection 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Internet Connection Sharing (ICS) 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Shell Hardware Detection 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Print Spooler 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: SSDP Discovery 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Secure Socket Tunneling Protocol Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: State Repository Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Image Acquisition (WIA) 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Storage Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: SysMain 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: System Events Broker 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Text Input Management Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Themes 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Time Broker 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Web 帐户管理器 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Distributed Link Tracking Client 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: UPnP Device Host 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: User Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 更新 Orchestrator 服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Credential Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: VMware Authorization Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: VMware DHCP Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: VMware USB Arbitration Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: VMware NAT Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Connection Manager 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Diagnostic System Host 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Microsoft Defender 防病毒网络检查服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows 健康状况和优化体验 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Microsoft Defender 防病毒服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: WinHTTP Web Proxy Auto-Discovery Service 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Management Instrumentation 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: WLAN AutoConfig 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows 推送通知系统服务 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: WSAIFabricSvc 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: 安全中心 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: Windows Search 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: BluetoothUserService_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: cbdhsvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: CDPUserSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: DevicesFlowUserSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: NPSMSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: OneSyncSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: PimIndexMaintenanceSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: UdkUserSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: UnistoreSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: UserDataSvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: webthreatdefusersvc_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] 服务: WpnUserService_12a93f 状态: running
+[2026-03-28 19:22:53] [INFO] === 日志检查 ===
+[2026-03-28 19:22:53] [INFO] 发现 54590 个错误/警告事件
+[2026-03-28 19:22:53] [INFO] 事件ID: -1073734824 来源: Service Control Manager 时间: 2026-03-28 19:20:21
+[2026-03-28 19:22:53] [INFO] 事件ID: -1073734824 来源: Service Control Manager 时间: 2026-03-28 19:19:48
+[2026-03-28 19:22:53] [INFO] 事件ID: -1073734824 来源: Service Control Manager 时间: 2026-03-28 19:19:39
+[2026-03-28 19:22:53] [INFO] 事件ID: -1073734824 来源: Service Control Manager 时间: 2026-03-28 19:18:18
+[2026-03-28 19:22:53] [INFO] 事件ID: -1073734824 来源: Service Control Manager 时间: 2026-03-28 19:18:04
+[2026-03-28 19:22:53] [INFO] === 安全检查 ===
+[2026-03-28 19:22:53] [INFO] 系统用户数: 6
+[2026-03-28 19:22:53] [INFO] 用户: R21U0PGC
+[2026-03-28 19:22:53] [INFO] 用户: Administrator
+[2026-03-28 19:22:53] [INFO] 用户: DefaultAccount
+[2026-03-28 19:22:53] [INFO] 用户: Guest
+[2026-03-28 19:22:53] [INFO] 用户: ms0416
+[2026-03-28 19:22:53] [INFO] 用户: WDAGUtilityAccount
+[2026-03-28 19:22:53] [INFO] 开放端口检查:
+[2026-03-28 19:22:53] [INFO] 开放端口: [135, 139, 445, 902, 912, 1947, 5040, 5700, 9001, 9080, 10000, 10808, 10811, 17788, 49664, 49665, 49666, 49667, 49668, 49810, 49824, 51000, 56474, 60528]
+[2026-03-28 19:22:53] [INFO] 日常巡检完成
+
+====================================
+         报告结束
+====================================
